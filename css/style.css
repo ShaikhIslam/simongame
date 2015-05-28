@@ -1,0 +1,72 @@
+.stage { 
+    width: 400px; 
+    height: 330px; 
+    margin: 0 auto; 
+    overflow: hidden; 
+    position: relative; 
+    z-index: 0; 
+    background-size: contain;
+}
+
+
+
+
+.ken { 
+
+}
+
+
+
+
+/* stance */
+.stance { 
+    
+}
+
+@-webkit-keyframes stance { 
+    
+}
+
+
+
+
+/* walking */
+.walk { 
+     
+}
+
+@-webkit-keyframes walk { 
+     
+}
+
+
+
+
+/* jump */
+.jump { 
+    
+}
+
+.jump.down { 
+    
+}
+
+@-webkit-keyframes jump { 
+     
+}
+
+
+
+
+/* punch */
+.punch { 
+     
+}
+
+@-webkit-keyframes punch { 
+    
+}
+
+
+
+
